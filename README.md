@@ -37,7 +37,7 @@ Make sure you have the following installed:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-username/pawmates-landing-page.git
+   git clone https://github.com/your-username/PawMates-Front-End-React.git
 
 2. Navigate to the project directory:
 
