@@ -40,17 +40,17 @@ Make sure you have the following installed:
    git clone https://github.com/your-username/PawMates-Front-End-React.git
 
 2. Navigate to the project directory:
-
+   ```sh
     cd PAWMATES REACT 
 
 3. Install the required packages:
-
+   ```sh
     npm install
 
 4. To start the development server, run:
-
+   ```sh
     npm start
 
 ### Contact
 If you have any questions or suggestions, please feel free to reach out to us at
-Your Name - @your-twitter-handle - your-email@example.com
+Your Name - @your-twitter-handle - yassineborak@gmail.com
